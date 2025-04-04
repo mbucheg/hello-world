@@ -12,9 +12,8 @@ Iron man says:
 `print("Hello World!)`
 
 Concerts I have this year:
-1. Sabrina Carpenter
-⋅⋅⋅ once in Amsterdam and Zurich
-3. Gracie Abrams
-4. Inhaler
-5. Alessia Cara
-6. The Darkness
+1. Sabrina Carpenter - once in Amsterdam and Zurich
+2. Gracie Abrams
+3. Inhaler
+4. Alessia Cara
+5. The Darkness
