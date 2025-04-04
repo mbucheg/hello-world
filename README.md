@@ -17,3 +17,10 @@ Concerts I have this year:
 3. Inhaler
 4. Alessia Cara
 5. The Darkness
+
+
+# Exercise 1
+ ●your expectation for this course: learn about different bioinformatics methods, learn to use different online resources
+ ●your general background: last semester of my Bachelor in Biomedicine, and I'm doing a minor in Bioinformatics
+ ●your knowledge about R: I have taken a couple of courses using R
+ ●your knowledge about Python: I have taken one course using Python.
