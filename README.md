@@ -13,7 +13,7 @@ Iron man says:
 
 Concerts I have this year:
 1. Sabrina Carpenter
-⋅⋅⋅once in Amsterdam and Zurich
+⋅⋅⋅ once in Amsterdam and Zurich
 3. Gracie Abrams
 4. Inhaler
 5. Alessia Cara
